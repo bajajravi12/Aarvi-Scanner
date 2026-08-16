@@ -1,0 +1,6 @@
+{
+  "name": "RV Multi-CDN Turbo Scanner",
+  "description": "High-performance multi-CDN reconnaissance and IP range scanner with live card feed, raw TLS/TCP probing, and edge diagnostic metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
